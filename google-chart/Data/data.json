@@ -1,0 +1,107 @@
+[
+  {
+    "Year":1992,
+    "China":2448.881,
+    "United States":5093.337
+  },
+  {
+    "Year":1993,
+    "China":2565.387,
+    "United States":5188.397
+  },
+  {
+    "Year":1994,
+    "China":2754.009,
+    "United States":5261.429
+  },
+  {
+    "Year":1995,
+    "China":2851.777,
+    "United States":5319.154
+  },
+  {
+    "Year":1996,
+    "China":3005.782,
+    "United States":5504.86
+  },
+  {
+    "Year":1997,
+    "China":2918.217,
+    "United States":5577.387
+  },
+  {
+    "Year":1998,
+    "China":2916.263,
+    "United States":5617.027
+  },
+  {
+    "Year":1999,
+    "China":2932.723,
+    "United States":5678.32
+  },
+  {
+    "Year":2000,
+    "China":3165.32,
+    "United States":5863.755
+  },
+  {
+    "Year":2001,
+    "China":3226.522,
+    "United States":5754.546
+  },
+  {
+    "Year":2002,
+    "China":3422.086,
+    "United States":5798.652
+  },
+  {
+    "Year":2003,
+    "China":3959.966,
+    "United States":5852.684
+  },
+  {
+    "Year":2004,
+    "China":4596.97,
+    "United States":5974.384
+  },
+  {
+    "Year":2005,
+    "China":5116.349,
+    "United States":5999.142
+  },
+  {
+    "Year":2006,
+    "China":5575.198,
+    "United States":5923.588
+  },
+  {
+    "Year":2007,
+    "China":5908.428,
+    "United States":6024.107
+  },
+  {
+    "Year":2008,
+    "China":6166.566,
+    "United States":5840.549
+  },
+  {
+    "Year":2009,
+    "China":6816.095,
+    "United States":5429.795
+  },
+  {
+    "Year":2010,
+    "China":7388.502,
+    "United States":5580.015
+  },
+  {
+    "Year":2011,
+    "China":8126.694,
+    "United States":5483.212
+  }  
+  {
+    "Year":2012,
+    "China":8106.43,
+    "United States":5270.422
+  }  
+]
