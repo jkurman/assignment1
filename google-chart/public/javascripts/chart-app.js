@@ -15,7 +15,10 @@ app.controller('MainController', ['$scope', '$http',  function($scope, $http) {
         
         var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
         
-        var options = {'title':'Total Carbon Dioxide Emmission from the Consumption of Energy(Million Metric Tons)'}; //change the chart title
+        var options = {
+            'title': 'Total Carbon Dioxide Emmission from the Consumption of Energy(Million Metric Tons)',
+            hAxis: { format:''}
+        }; 
         
         chart.draw(table, options);
         
